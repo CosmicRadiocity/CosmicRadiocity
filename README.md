@@ -5,7 +5,7 @@ I've had a big passion for video games ever since I was a child, and I love to c
 
 ## ⭐SKILLS⭐
 
-I'm skilled (degree of skill varying) in a variety of programming language in tools, such as :
+I'm skilled (degree of skill varying) in a variety of programming language and tools, such as :
 
 - Languages
   - Java
