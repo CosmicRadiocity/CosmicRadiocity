@@ -25,7 +25,6 @@ I'm skilled (degree of skill varying) in a variety of programming language and t
 ## 👽...AND MORE👽
 
 Though I don't have any published projects (yet!) on GitHub, I'm currently working on various game prototypes ideas.
-I have a [Twitter](https://twitter.com/CosmicMemeo), a [Tumblr](https://cosmic-radiocity.tumblr.com) and a sparcely-updated [art blog](https://galactic-artnomaly.tumblr.com).
 Thank you for your time!
 
 
