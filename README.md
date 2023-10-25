@@ -1,6 +1,6 @@
 ## 🌠ABOUT ME🌠
 
-Hi, I'm Cosmo. I'm 22 years old, and my pronouns are she/her. I'm a software/web developer from France, aiming to one day become a game developer.   
+Hi, I'm Cosmo. I'm 22 years old. I'm a software/web developer from France, aiming to one day become a game developer.   
 I've had a big passion for video games ever since I was a child, and I love to create things. I hope to one day share my stories with the world.
 
 ## ⭐SKILLS⭐
